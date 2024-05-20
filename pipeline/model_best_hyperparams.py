@@ -1,0 +1,1 @@
+params_ridge = {'alpha': 1, 'solver': 'lsqr'}
